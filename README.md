@@ -1,1 +1,1 @@
-# ivm
+Mysterious Dungeon is a thrilling text-based adventure game where you must navigate the depths of an ancient, enchanted dungeon. Every choice you make leads to different outcomes—some rewarding, others perilous. Solve riddles to claim hidden treasures, face a fearsome dragon with courage or wit, and uncover the secrets of a forgotten underground world. Will you emerge victorious with riches and wisdom, or be lost in the shadows forever? The journey is yours to shape!
